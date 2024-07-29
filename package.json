@@ -1,0 +1,19 @@
+{
+  "name": "wfts_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "json2csv": "^6.0.0-alpha.2",
+    "openai": "^4.53.2"
+  }
+}
